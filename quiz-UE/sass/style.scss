@@ -1,2 +1,6 @@
-@import 'general';
-@import 'normalize';
+@import 'config/variables';
+@import 'layers/general';
+@import 'config/funciones';
+@import 'layers/slider';
+@import 'layers/events';
+
